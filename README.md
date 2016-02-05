@@ -1,0 +1,12 @@
+# Conway-s-Game-Of-Life-Simulator
+An iOS Simulator for Conway's Game of Life
+
+Features:
+* Preloaded structures
+* Speed Control
+* Draggable Grid
+* Help Menu
+
+![photo](https://lh3.googleusercontent.com/sM0v5oYs2LYJUwsVnJ6xxreaFE9DPLLTOlyEL9shmgBUOO69SAy9JxyB0zVZnvaj65yfx-wNQyTgVi_QVALbRmFK9ytZNEc4HMjfffCZrGQKyro3CUV2mmIJLNiDLeAwdzKpl2a1VPM5j5_EYkdIGpKJFeubiiKEFN8LIV1lT_gmXTONNrvSKAlhoMBNrSMzOGMPByLUCYHIy4c37Os3ua_Tt3UK9LHiJI0ZRdLllJ1X0xjXY6gE_Zbz8T_O-P20lkakzjvYFsoNOLu3kVXC0BNSppOu0WbcRev8pghkUqQuDJ-T1BPv59XO0CYwQCfjA14ES6iQS4P-6olET-9tGLr84bEGb5-g6Tti5sdHmK7lkL1RV-WTJP3oVyf3mzfqSWfHgIwU_9OtSHn1Mx5oQAF73dBF7rmxeHk6CofBntaCZrfKO1WY4GiMS1P7WYQHLHYLVQNig-ErjodknR3GfVtNImzaz5VqiD-ad8YfBxut_Pm3ouzwvAX098zw0OqmsowGLpbgqZ4bsjrytj2Uh_B2WWYDL5OcKpCiUMSWKl75-3FyTGtQgX2ThEofuy0DL_wt=w1233-h928-no)
+
+Video: https://photos.google.com/photo/AF1QipM1VBgVMa8dBh49gIs5CWuaNLi8Oj0NUVEr9IlQ
